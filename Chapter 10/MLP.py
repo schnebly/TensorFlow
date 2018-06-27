@@ -3,7 +3,7 @@ Author = James Schnebly
 Date = 6/26/18
 Project = chapter 10 exercise 9
 
-Tittle = Multi-Layer Perceptron (MLP)
+Title = Multi-Layer Perceptron (MLP)
 Task = Classify MNIST @ >98%
 '''
 import tensorflow as tf
